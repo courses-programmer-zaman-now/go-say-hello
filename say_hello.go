@@ -5,5 +5,5 @@ func SayHello() string {
 }
 
 func Perkenalan(firstName string) string {
-	return "hai" + firstName + "heheh"
+	return "hai" + firstName
 }
